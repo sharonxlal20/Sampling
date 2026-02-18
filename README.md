@@ -143,4 +143,4 @@ For real-world imbalanced classification problems, additional metrics should be 
 
 ## Author
 
-**Vansh Singla**
+**Sharon Abhishek Lal**
